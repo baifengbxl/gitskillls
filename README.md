@@ -10,3 +10,4 @@
 7 我用了git stash 命令行
 8 我用了git add -p进入了patch模式，这是我的第一个hunk(区块)
 8.2 这是我的第二个区块hunk
+9 这里我使用了git diff --cached来确认我的提交内容
