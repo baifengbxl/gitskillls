@@ -8,3 +8,5 @@
 5我新建了一个dev分支，并且打算禁用fast forward 模式，关键字是--no-ff
 6我用了vi模式来编辑我的文件
 7 我用了git stash 命令行
+8 我用了git add -p进入了patch模式，这是我的第一个hunk(区块)
+8.2 这是我的第二个区块hunk
