@@ -12,3 +12,4 @@
 8.2 这是我的第二个区块hunk
 9 这里我使用了git diff --cached来确认我的提交内容
 10 使用git config --global credential.helper store 来取消掉每次push 和pull --rebase 的时候 需要输入密码的问题
+11 10修改失败，再次修改
