@@ -11,3 +11,4 @@
 8 我用了git add -p进入了patch模式，这是我的第一个hunk(区块)
 8.2 这是我的第二个区块hunk
 9 这里我使用了git diff --cached来确认我的提交内容
+10 使用git config --global credential.helper store 来取消掉每次push 和pull --rebase 的时候 需要输入密码的问题
